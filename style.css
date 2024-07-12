@@ -1,0 +1,42 @@
+h1 {
+    font-family: 'Blockhead Bold','Black Block', 'Mangold Bold', 'Comic Sans MS', 'Luminari', monospace;
+    font-size: 70px;
+}
+
+h1,p,h2 {
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+img {
+    width: 175px;
+    height: 175px;
+}
+
+button {
+    border-radius: 10px;
+}
+
+.options {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url("https://media.istockphoto.com/id/1346398740/video/paper-rock-scissors-game-on-black-background.jpg?s=640x640&k=20&c=yJvTh_9o9qXbM-Vodw5pqhUuS5FuBS8yZ-nwNXXDNNk=");
+    background-size: 1780px 800px;
+}
+
+p {
+    font-size: 30px;
+}
